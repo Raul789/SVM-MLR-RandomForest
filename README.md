@@ -3,7 +3,7 @@
 ## Overview  
 
 This project demonstrates the use of three powerful machine learning models—**Support Vector Machine (SVM)**, **Multiple Linear Regression (MLR)**, and **Random Forest**—for accurate prediction of heating and cooling energy requirements in modern households.
-. Each model is applied to the dataset to predict outcomes, analyze accuracy, and evaluate their performance based on key metrics such as **Mean Squared Error (MSE)**, **R-squared**, and **classification accuracy**.  
+. Each model is applied to the dataset to predict outcomes, analyze accuracy, and evaluate their performance based on key performance metrics in order to find out the optimal heating and cooling loads that are necesary in the summer and winter season for a group of houses located in Irvine, California.
 
 ## Dataset
 
