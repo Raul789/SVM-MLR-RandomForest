@@ -2,10 +2,15 @@
 
 ## Overview  
 
-This project demonstrates the use of three powerful machine learning models—**Support Vector Machine (SVM)**, **Multiple Linear Regression (MLR)**, and **Random Forest**—for accurate prediction of heating and cooling energy requirements ![image](https://github.com/user-attachments/assets/515008cc-db2e-4ab6-a3fa-e6d2532c74f5)
+This project demonstrates the use of three powerful machine learning models—**Support Vector Machine (SVM)**, **Multiple Linear Regression (MLR)**, and **Random Forest**—for accurate prediction of heating and cooling energy requirements in modern households.
 . Each model is applied to the dataset to predict outcomes, analyze accuracy, and evaluate their performance based on key metrics such as **Mean Squared Error (MSE)**, **R-squared**, and **classification accuracy**.  
 
-## Features  
+## Dataset
+
+The dataset used in this project is available at the UCI Machine Learning Repository:
+[https://archive.ics.uci.edu/dataset/244/fertility](https://archive.ics.uci.edu/dataset/244/fertility)
+
+## Models  
 
 - **Support Vector Machine (SVM)**:  
   The SVM model is used for classification tasks. It finds the optimal hyperplane that best separates different classes in the dataset. SVM is known for its robustness in high-dimensional spaces and provides excellent performance for both linear and non-linear data.  
